@@ -1,0 +1,5 @@
+Name: OOC Android debug
+Description: Android debug
+SourcePath: source
+
+Imports: AndroidDebug
